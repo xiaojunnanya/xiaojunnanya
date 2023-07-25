@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://xiaojunnan.cn"
+          feed_list: "http://www.xiaojunnan.cn/"
