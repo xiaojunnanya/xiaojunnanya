@@ -18,3 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&layout=compact&langs_count=6)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
