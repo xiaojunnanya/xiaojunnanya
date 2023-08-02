@@ -29,13 +29,21 @@
 
 
 ### Github 活跃度
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaojunnanya&show_icons=true&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&layout=compact&langs_count=6"/>
+</div>
 
+
+<!-- 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaojunnanya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![xiaojunnanya's github stats](https://github-readme-stats.vercel.app/api?username=xiaojunnanya&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&layout=compact&langs_count=6)
+ -->
+ 
 
-## 我的博客
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
