@@ -9,6 +9,10 @@
   <img alt="node" height="100" width="100" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
 </div>
  -->
+
+ <div align="center">
+   <img src='https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,ts'/>
+ </div>
  
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
