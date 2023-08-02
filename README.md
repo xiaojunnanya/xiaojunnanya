@@ -1,5 +1,3 @@
-<img align="right" src="https://count.getloli.com/get/@:xiaojunnanya?theme=rule34">
-
 ## 前端实习生—鲸落
 
 热爱前端，喜欢探索前端的相关技术，热爱分享
