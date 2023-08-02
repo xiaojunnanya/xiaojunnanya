@@ -1,5 +1,5 @@
 <!-- gif -->
-<div style='display:flex;justify-content: center; width: 100%'>
+<div style='display:flex;justify-content: center;'>
   <img alt="html" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
   <img alt="css" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
   <img alt="js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
