@@ -1,14 +1,3 @@
-<!-- gif -->
-<!-- 
-<div style='display:flex;justify-content: center;' align="center">
-  <img alt="html" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-  <img alt="css" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-  <img alt="js" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-  <img alt="react" height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-  <img alt="vue" height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-  <img alt="node" height="100" width="100" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-</div>
- -->
 
  <div align="center">
    <img src='https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,ts'/>
@@ -34,6 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaojunnanya&layout=compact&langs_count=6"/>
 </div>
 
+<div align="center">
+  <img src="./img/1.gif"/>
+</div>
+ 
 
 <!-- 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaojunnanya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
