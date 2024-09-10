@@ -9,12 +9,6 @@
 
 ### **个人博客：**<a href="http://www.xiaojunnan.cn/">鲸落</a>
 
-
-<div align="center">
-  <img src="./img/1.gif"/>
-</div>
- 
-
 <!-- 
 [![](https://activity-graph.herokuapp.com/graph?username=xiaojunnanya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
